@@ -1,3 +1,4 @@
+
 #Experiment 6
 
 import numpy as np
